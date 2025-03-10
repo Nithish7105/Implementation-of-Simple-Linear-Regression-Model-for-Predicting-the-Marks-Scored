@@ -109,8 +109,7 @@ print("RMSE= ",rmse)
 ## Testing Set:
 
 ![Screenshot (407)](https://github.com/user-attachments/assets/41080251-80e2-4111-9a5c-6f4b7eba31d2)
-## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
 
 
 ## Result:
